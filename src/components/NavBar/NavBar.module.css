@@ -1,0 +1,29 @@
+#navbar {
+  padding: 8px 20px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+}
+
+#navbar ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar_logo {
+  color: #ff0000;
+  font-size: 24px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.navbar_search {
+  width: 21px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
