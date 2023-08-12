@@ -35,4 +35,4 @@ Trang Web này sẽ bao gồm 2 chức năng xem thông tin cũng như tìm ki�
 - **Thành phần:**
   - Form tìm kiếm
   - Danh sách kết quả
-    ![Trang chủ](https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FRJS101x_ASM02_07.png?alt=media&token=4063d0f3-778c-4815-b2f8-c7d6e7db2cf7)
+    ![Trang chủ](./public/search_page_img.png)
