@@ -25,7 +25,7 @@ Trang Web này sẽ bao gồm 2 chức năng xem thông tin cũng như tìm ki�
   - Phim kinh dị
   - Phim lãng mạn
   - Phim tài liệu
-    ![Trang chủ](https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FRJS101x_ASM02_09.png?alt=media&token=31e280a6-6c5b-4c44-88b5-9656aecf1b8b)
+    ![Trang chủ](./public/home_page_img.png)
 
 #### Trang tìm kiếm (_SearchPage_):
 
