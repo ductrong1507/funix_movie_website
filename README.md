@@ -35,4 +35,4 @@ Trang Web này sẽ bao gồm 2 chức năng xem thông tin cũng như tìm ki�
 - **Thành phần:**
   - Form tìm kiếm
   - Danh sách kết quả
-    ![Trang chủ](./public/search_page_img.png)
+    ![Tìm kiếm](./public/search_page_img.png)
