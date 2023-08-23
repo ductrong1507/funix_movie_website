@@ -6,7 +6,7 @@
 
 ## Tổng quan dự án
 
-Trang Web này sẽ bao gồm 2 chức năng xem thông tin cũng như tìm kiếm phim theo từ khóa. Dữ liệu về các bộ phim được lấy từ 1 API có tên là The Movie Database API
+Trang Web này sẽ bao gồm 2 chức năng xem thông tin cũng như tìm kiếm phim theo từ khóa. Dữ liệu về các bộ phim được lấy từ API có tên là The Movie Database API
 
 > https://developer.themoviedb.org
 >
